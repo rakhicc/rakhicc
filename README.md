@@ -1,3 +1,9 @@
+ <p align="center">
+  <img src="https://img.shields.io/badge/Focus-java%20Programming%20%26%20Javascript%20%26%20HTML%20%26%20CSS%20%26%20React%20%26%20Node-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Finland-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Malayalam20%26%20Hindi-brightgreen" />
+</p>
+
 ### Hi there 👋 I am Rakhi Chandran Chirayil.
 <p align="center">
 <a href="https://www.linkedin.com/in/rakhi-chandran-chirayil-131859194/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a> 
