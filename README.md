@@ -15,10 +15,7 @@ This repo contains mainly my projects and assignments completed as part of [Full
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
-  
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>  
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
