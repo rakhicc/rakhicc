@@ -4,6 +4,7 @@ I am a Java backend developer.
 I am eager to learn new languages and frameworks.
 
 - 🌱 I’m currently learning the full stack web developer program in Business college Helsinki.
+- - 📫 How to reach me:Email me at [rakhicc29@gmail.com](mailto:rakhicc29@gmail.com).
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhicc&theme=swift)
