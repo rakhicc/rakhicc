@@ -1,6 +1,8 @@
 ### Hi there 👋 I am Rakhi Chandran Chirayil.
-
-
+<p align="center">
+<a href="https://www.linkedin.com/in/rakhi-chandran-chirayil-131859194/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a> 
+<a href = "mailto: orakhicc29@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+</p>
 
 I am a Java backend developer.
 I am eager to learn new languages and frameworks.
