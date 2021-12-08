@@ -5,7 +5,7 @@
 I am a Java backend developer.
 I am eager to learn new languages and frameworks.
 
-- 🌱 I’m currently learning the full stack web developer program in [Full-Stack Development Program] at [Business College Helsinki](https://en.bc.fi/).
+- 🌱 I’m currently learning the  [Full-Stack Development Program] at [Business College Helsinki](https://en.bc.fi/).
 - 📫 How to reach me:Email me at [rakhicc29@gmail.com](mailto:rakhicc29@gmail.com).
 -  💬 Ask me about anything, I love to answer!
 
