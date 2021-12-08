@@ -7,6 +7,9 @@ I am eager to learn new languages and frameworks.
 
 - 🌱 I’m currently learning the  [Full-Stack Development Program](https://en.bc.fi/qualifications/full-stack-web-developer-program/) at [Business College Helsinki](https://en.bc.fi/).
 - 📫 How to reach me:Email me at [rakhicc29@gmail.com](mailto:rakhicc29@gmail.com).
+- <a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
+  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+</a>
 -  💬 Ask me about anything, I love to answer!
 
 This repo contains mainly my projects and assignments completed as part of [Full-Stack Development Program](https://en.bc.fi/qualifications/full-stack-web-developer-program/) and also Java springboot projects. 
