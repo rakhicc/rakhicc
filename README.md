@@ -1,7 +1,7 @@
  <p align="center">
   <img src="https://img.shields.io/badge/Focus-java%20Programming%20%26%20Javascript%20%26%20HTML%20%26%20CSS%20%26%20React%20%26%20Node-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Finland-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Malayalam20%26%20Hindi-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Malayalam%20%26%20Hindi-brightgreen" />
 </p>
 
 ### Hi there 👋 I am Rakhi Chandran Chirayil.
