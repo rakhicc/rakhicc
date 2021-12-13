@@ -36,13 +36,14 @@ This repo contains mainly my projects and assignments completed as part of [Full
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhicc&theme=swift)
 
-## Statistics 🚀
+<!--## Statistics 🚀
 
 ![rakhicc's github stats](https://github-readme-stats.vercel.app/api?username=rakhicc&show_icons=true&theme=tokyonight). 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakhicc&theme=tokyonight" alt="mystreak"/>. 
 <!--
 **rakhicc/rakhicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
