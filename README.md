@@ -19,8 +19,9 @@ I am eager to learn new programming languages and frameworks.
 
 This repo contains mainly my projects and assignments completed as part of [Full-Stack Development Program](https://en.bc.fi/qualifications/full-stack-web-developer-program/) and also Java springboot projects. 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***
-## Technologies...***
+<!--<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+-->
+## Technologies
 <p align="left">
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>  
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
