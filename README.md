@@ -10,7 +10,7 @@
 <a href = "mailto: orakhicc29@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
-I am a Java backend developer.
+I am a web developer.
 I am eager to learn new programming languages and frameworks.
 
 - 🌱 I’m currently learning the  [Full-Stack Development Program](https://en.bc.fi/qualifications/full-stack-web-developer-program/) at [Business College Helsinki](https://en.bc.fi/).
@@ -19,13 +19,17 @@ I am eager to learn new programming languages and frameworks.
 
 This repo contains mainly my projects and assignments completed as part of [Full-Stack Development Program](https://en.bc.fi/qualifications/full-stack-web-developer-program/) and also Java springboot projects. 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***
+## Technologies...***
 <p align="left">
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>  
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
+ <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
   <hr>
  
 
